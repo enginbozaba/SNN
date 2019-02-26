@@ -1,5 +1,34 @@
 # SNN
 
+
+
+
+
+# Project Title : Spiking Neural Network with Python
+
+
+
+| Files/Directory name | Description | Status |
+| :---               |     :---:      |   :---: |
+| receptive_field.py | create potential map from image      | :fire:      |
+| spike_train.py     | create spike train from potential map      | :fire:      |
+| neuron.py          | git diff       | :fire:      |
+| learning.py        | learning rule        | :fire:      |
+| visualization.py   | Shows the spike count of the output neurons  for each image.    | :fire:      |
+
+
+
+![network_list](https://github.com/enginbozaba/SNN/blob/master/readme/network_list.png)
+
+
+
+
+
+
+
+
+Eskiler :
+
 Github'a benzer : https://link.springer.com/article/10.1186/s13640-015-0059-4
 
 STDP anlatımı güzel : https://www.sciencedirect.com/science/article/pii/S0925231214017007
