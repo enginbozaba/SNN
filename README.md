@@ -1,5 +1,8 @@
 # SNN
 
+http://www.ziti.uni-heidelberg.de/ziti/uploads/ce_group/seminar/2014-Eugen_Rusakov.pdf
+
+
 Filters :
 
 A biologically inspired spiking model of visual processing
